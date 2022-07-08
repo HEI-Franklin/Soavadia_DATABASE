@@ -5,7 +5,7 @@ The first step of this realization is the creation of the database you see here.
 
 # Model
 Here is the schema model of the database
-
+<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/master/db_image/Soavadia_schema.jpg" alt="Soavadia database model"/>
 ## Prerequisites for using this model
 
 - Operating system like Windows Linux or Mac

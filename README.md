@@ -47,7 +47,7 @@ Here is the schema model of the database
 	```` sql
 	SELECT * FROM client;
 	````
-	<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/master/db_image/insert_img.png" alt="result of select * from client"/>
+	<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/develop/db_image/insert_img.png" alt="result of select * from client"/>
 	If this is the case, congratulations 🥳, your database is functional. If not, check again the steps we performed 	earlier.
 
 ## Requests

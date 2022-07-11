@@ -5,7 +5,7 @@ The first step of this realization is the creation of the database you see here.
 
 # Model
 Here is the schema model of the database
-<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/master/db_image/Soavadia_schema.jpg" alt="Soavadia database model"/>
+<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/develop/db_image/Soavadia_schema.jpg" alt="Soavadia database model"/>
 ## Prerequisites for using this model
 
 - Operating system like Windows Linux or Mac
@@ -47,7 +47,7 @@ Here is the schema model of the database
 	```` sql
 	SELECT * FROM client;
 	````
-                     image
+	<img src="https://github.com/HEI-Franklin/Soavadia_DATABASE/raw/develop/db_image/insert_img.png" alt="result of select * from client"/>
 	If this is the case, congratulations 🥳, your database is functional. If not, check again the steps we performed 	earlier.
 
 ## Requests

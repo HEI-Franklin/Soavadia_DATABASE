@@ -38,7 +38,7 @@ Here is the schema model of the database
 	\i path/insert.sql;
 	````
 	the "path" is the absolute path to your insert.sql file
-- Now to connect to your database run the following command
+- If you are not yet connected to your database run the following command to connect in your 	database.
 	```` sql
 	\c soavadia;
 	````
